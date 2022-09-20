@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>csharpstuff2.labsheet1</StartupObject>
+    <StartupObject>csharpstuff2.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,7 +47,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="collectionExercise.cs" />
+    <Compile Include="CustomStack.cs" />
+    <Compile Include="CustomStackExtendedOP.cs" />
     <Compile Include="Cv.cs" />
+    <Compile Include="Interns.cs" />
     <Compile Include="labsheet1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

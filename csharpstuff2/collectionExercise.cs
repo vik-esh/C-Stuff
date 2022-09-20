@@ -76,6 +76,7 @@ namespace csharpstuff2
                         }
 
                         //display values
+                        Console.WriteLine();
                         showArray(arr);
                         Console.WriteLine("\n");
                         showList(list);
