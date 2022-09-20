@@ -186,6 +186,7 @@ namespace csharpstuff2
                 }
                 Console.Clear();
                 Console.WriteLine("Program Exited.");
+                Console.WriteLine("testing");
                 Console.ReadKey();
             }
 
