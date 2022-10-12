@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>csharpstuff2.Program</StartupObject>
+    <StartupObject>csharpstuff2.labsheet1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
