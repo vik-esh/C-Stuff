@@ -5,6 +5,10 @@ namespace csharpstuff2
 {
     internal class labsheet1
     {
+        static void SayHelloToGitHub()
+        {
+            Console.WriteLine("Hello GitHub!!");
+        }
         enum category
         {
             E = 20,
